@@ -1,3 +1,6 @@
+# How to use: 
+#   put in console "py BytesReader.py C:\Path\To\Archive.exe 277(Number of Bytes Read)"
+
 import argparse
 import os
 
